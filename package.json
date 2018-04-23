@@ -1,0 +1,22 @@
+{
+  "name": "grocery-shop",
+  "version": "1.0.0",
+  "description": "grocery shop grid layout view",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "Eseosa",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "^1.1.4"
+  },
+  "devDependencies": {
+    "tachyons": "^4.9.1"
+  }
+}
